@@ -1,6 +1,7 @@
 # Get all Discord Server Members
 Here I make an Script where you can get all the Members on the Server.
 
+------------------------------------------------------
 
 **!!IMPORTANT!!**
 
@@ -17,6 +18,7 @@ Wenn you want to access the member list of a server without using a bot, unfortu
 
 **!!IMPORTANT!!**
 
+------------------------------------------------------
 
 **03.11.2023**
 
